@@ -1,6 +1,6 @@
 name: Cleopatra
 favicon: null
-layout_spectrum: 0.10736697190441191
+layout_spectrum: 0.2359
 typography_spectrum: 0.02999739209190011
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#ffe08d'
+    - '#a54e1a'
+    - '#8aa381'
+    - '#df0000'
   brandStrength: 0.9188126516528428
   lightness: 0.38663881504908204
   saturation: 0.09496677853167057
